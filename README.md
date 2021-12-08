@@ -5,4 +5,5 @@
 **2. Usage of the tool**
 
 ### Explanation of the Tool ###
- This tool can be used to simulate the docking process of the proteins to their ligands. As you may know the protein docking process is actually hard to visualize as we don't have most of the tools that can show the interaction of a protein with its ligand
+ This tool can be used to simulate the docking process of the proteins to their ligands. As you may know the protein docking process is actually hard to visualize as we don't have most of the tools that can show the interaction of a protein with its ligand.
+ So how do we
